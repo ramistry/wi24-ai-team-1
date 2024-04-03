@@ -23,5 +23,11 @@
 ## 5. Difficulties
 
 ## 6. Author Info
+everything linked to google.com atm.
+- Keerthi Nalabotu (mentor): [LinkedIn](https://www.google.com/) | [GitHub](https://www.google.com/)
+- Sia Patodia (mentor): [LinkedIn](https://www.google.com/) | [GitHub](https://www.google.com/)
+- Kiran Garre: [LinkedIn](https://www.google.com/) | [GitHub](https://www.google.com/)
+- Hikaru Isayama: [LinkedIn](https://www.google.com/) | [GitHub](https://www.google.com/)
+- Rishab Bora: [LinkedIn](https://www.google.com/) | [GitHub](https://www.google.com/)
 
 
