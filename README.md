@@ -15,7 +15,9 @@
 ## 1. Background and Motivation
 Let's say there are two messages for help – one where a house is in a raging fire, and the other is where someone got a slight burn on their finger. Which call should be responded to and helped with first?
 <br />
+<br />
 For us humans, this may be an easy decisions to make – for machine learning models however, it is not so simple. To make choices based on "priority" or "urgency" based on text using ML is something that requires a complex natural language processing (NLP) model. Using a ML model with optimal accuracies and efficiency, not only can it sort which messages to be answered first and last, but also save countless lives in extreme scenarios
+<br />
 <br />
 In this project, we decided to build such ML model: the Urgency Classifier.
 
