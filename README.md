@@ -38,5 +38,6 @@ In this project, we decided to build such ML model: the Urgency Classifier.
 - Kiran Garre: [GitHub](https://www.google.com/) goog
 - Hikaru Isayama: [GitHub](https://github.com/SeanIsayama)
 - Rishab Bora: [GitHub](https://www.google.com/) goog
+- Rahul Mistry [GitHub](https://github.com/ramistry)) goog
 
 
